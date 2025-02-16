@@ -41,4 +41,4 @@ The game follows the **3S principle (Simple, Short, Satisfying)** for a quick an
 📧 Contact: pawanrat.santiyanon@gmail.com </br>
 
 ### Asset Credits
-🖼️ Assets downloaded from: [cgtrader.com](https://www.cgtrader.com/)  
+🖼️ Assets downloaded from: [cgtrader.com](https://www.cgtrader.com/)   
