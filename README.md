@@ -1,7 +1,7 @@
 # 🎮 Cyber Claw: Neon Arcade 🕹️  
 _A Cyberpunk-Themed First-Person Claw Machine Game in Unreal Engine_  
 
-
+![Cyber Claw Banner](Images/banner.png)  
 
 ## 🚀 Overview  
 **Cyber Claw: Neon Arcade** is a **3D first-person arcade game** developed in **Unreal Engine**, set in a futuristic **cyberpunk arcade**. Players control a high-tech claw machine, moving it within a limited time to grab prizes and collect rewards.  
@@ -14,6 +14,7 @@ The game follows the **3S principle (Simple, Short, Satisfying)** for a quick an
 ✅ **Automatic Prize Collection** – Claw lowers, grabs a **ball (placeholder prize)**, and moves it to the prize hole before resetting.  
 ✅ **Basic Prize System** – Simple physics-based grabbing and dropping.  
 
+![Cyber Claw Gameplay](Images/gameplay.png)  
 
 ## 🔧 Tech Stack  
 - 🎮 **Engine:** Unreal Engine 5 (Blueprint-based)  
